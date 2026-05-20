@@ -1,2 +1,2 @@
 # attic-web-server
-Web server built on Rust, designed around handling malicious requests for penetration testing usage
+Extremely basic web server built on python, designed around inspecting malicious requests for penetration testing usage
